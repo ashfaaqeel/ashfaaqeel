@@ -1,4 +1,4 @@
-# Ashfa09
+# ashfaaqeel
 # Hi, I'm Ashfa! 👋
 
 I’m a **Data Science & AI** student with a background in **Economics**, **Finance** and **International Relations**, aiming to apply **data science** and **machine learning** to drive practical solutions to global challenges. I often research and write using data backed insights on topics related to **economics** and **International relations**.
